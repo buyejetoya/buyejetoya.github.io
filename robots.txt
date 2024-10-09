@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://buyejetoya.github.io/sitemap/sitemap_index.txt.gz
